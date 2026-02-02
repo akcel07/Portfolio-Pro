@@ -39,4 +39,14 @@ Si vous souhaitez faire tourner le projet localement :
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone [https://github.com/votre-pseudo/votre-repo.git](https://github.com/votre-pseudo/votre-repo.git)
+   git clone https://github.com/akcel07/Portfolio-Pro.git
+   
+2. **Installation des dépendances :**
+   ```bash
+   npm install
+
+3. **Lancement de l'application :**
+    ```bash
+   npm start
+  
+   
